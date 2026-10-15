@@ -1,18 +1,6 @@
 <!-- Full Header Layout with Cyberpunk Background -->
 <div align="center" style="background: linear-gradient(135deg, #3a0ca3, #000000, #4361ee); padding: 40px; border-radius: 12px; box-shadow: 0 0 25px #4cc9f0;">
 
-<table style="border-collapse: collapse;">
-<tr>
-<!-- Avatar Column Full Height -->
-<td align="center" valign="middle" style="padding: 25px;">
-  <img src="https://raw.githubusercontent.com/satyamk001-tech/satyamk001-tech/main/assets/profile-avatar.png" 
-       alt="Satyam Kumar"
-       width="230"
-       style="border-radius: 50%; object-fit: cover; box-shadow: 0 0 20px #00eaff;"/>
-</td>
-<!-- Title Section -->
-<td align="center" valign="middle" style="padding: 30px;">
-
 <h1 align="center" style="color: #ffffff;">
   Hey there! I'm <span style="color:#00eaff;">Satyam Kumar</span> 👋
 </h1>
@@ -22,9 +10,6 @@
   <br/>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00E7F7&center=true&vCenter=true&width=520&lines=Backend+Developer+%26+Systems+Coder+%F0%9F%92%BB;Java+%26+Spring+Boot+Engineer+%F0%9F%9A%80;Systems+Programming+%26+OS+Dev+%E2%9A%A1;Building+Eran+OS+From+Scratch+%F0%9F%9B%A0%EF%B8%8F;Distributed+Systems+%26+DevOps+%F0%9F%A7%A0" alt="Typing Animation"/>
 </p>
-</td>
-</tr>
-</table>
 </div>
 
 ---
