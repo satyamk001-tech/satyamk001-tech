@@ -20,7 +20,7 @@
 <p align="center" style="color:#e2e2e2;">
   <b>Turning complex problems into scalable systems & resilient code</b> ⚡  
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00E7F7&center=true&vCenter=true&width=520&lines=Backend+Developer+%26+Systems+Coder+%F0%9F%92%BB;Java+%26+Spring+Boot+Engineer+%F0%9F%9A%80;500%2B+LeetCode+Problems+Solved+%E2%9A%A1;Building+Eran+OS+From+Scratch+%F0%9F%9B%A0%EF%B8%8F;Distributed+Systems+%26+DevOps+%F0%9F%A7%A0" alt="Typing Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00E7F7&center=true&vCenter=true&width=520&lines=Backend+Developer+%26+Systems+Coder+%F0%9F%92%BB;Java+%26+Spring+Boot+Engineer+%F0%9F%9A%80;Systems+Programming+%26+OS+Dev+%E2%9A%A1;Building+Eran+OS+From+Scratch+%F0%9F%9B%A0%EF%B8%8F;Distributed+Systems+%26+DevOps+%F0%9F%A7%A0" alt="Typing Animation"/>
 </p>
 </td>
 </tr>
@@ -33,7 +33,7 @@
 
 - 🎓 **Computer Science Undergraduate** at Chandigarh College of Engineering, Jhanjeri (2024 – 2028)  
 - ⚙️ **Backend & Systems Developer** focused on high-performance Java microservices, low-level OS, and distributed systems  
-- 🧠 **500+ LeetCode DSA Problems Solved** with strong algorithmic thinking and competitive coding foundations  
+- 🧠 **Strong Computer Science Foundations**: Data Structures & Algorithms, Operating Systems, DBMS, Computer Networks & Architecture  
 - 🖥️ **Operating System Architect**: Currently building **Eran OS** (Custom x86 OS with bootloader, kernel, memory management & offline AI engine)  
 - 💬 **Distributed Systems**: Built **Samvaad** (Real-time distributed WhatsApp-like chat with Kafka, Redis, WebSocket & Docker)  
 - 🛰️ Exploring Cloud-Native architectures, Docker containerization, CI/CD pipelines, and observability  
@@ -46,7 +46,15 @@
 ## 🛠 Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,ts,spring,postgres,mysql,redis,kafka,rabbitmq,docker,git,github,linux,bash,jenkins,postman,vscode&perline=9&theme=dark"/>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,ts,spring,postgres,redis,kafka,rabbitmq,docker,git,github,jenkins,grafana,maven,gradle&perline=8&theme=dark"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/x86%20Assembly%20(NASM)-000000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
 </p>
 
 ---
@@ -80,16 +88,6 @@
 
 ---
 
-## 🧠 LeetCode Progress
-
-<p align="center">
-  <a href="https://leetcode.com/krsatyam1002/" target="_blank">
-    <img src="https://leetcard.jacoblin.cool/krsatyam1002?theme=dark&border=2&radius=10&font=baloo&ext=heatmap"/>
-  </a>
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 > Highlights of my most impactful engineering work
@@ -111,33 +109,15 @@
 
 ✔ Complete memory paging, hardware interrupt handlers & Virtual File System (VFS) in Eran OS  
 ✔ Design high-throughput microservices using Apache Kafka & Redis clusters  
-✔ Continuously push competitive programming ratings across LeetCode & Codeforces  
-✔ Expand expertise in Cloud-Native architectures, Kubernetes orchestration, and CI/CD  
+✔ Deepen knowledge in Computer Architecture, Systems Programming, and Kernel Engineering  
+✔ Expand expertise in Cloud-Native architectures, container orchestration, and CI/CD  
 ✔ Build production-grade distributed backend systems for enterprise scalability  
-
----
-
-## 🏆 Achievements & Certifications
-
-<div align="center">
-
-| Category | Credential / Achievement | Organization / Issuer |
-|:---|:---|:---|
-| 🧠 **LeetCode** | Solved 500+ Data Structures & Algorithms Problems | LeetCode |
-| ⚡ **Competitive Coding** | Secured 16th Position in College-Level Coding Competition | CCEJ |
-| 📜 **Certification** | Introduction to Programming & Data Structures Using Java | GeeksforGeeks |
-| 📜 **Certification** | Full Stack Development Certification | GeeksforGeeks |
-| 📜 **Certification** | HTML & CSS Fundamentals | ThingQbator (NASSCOM Foundation) |
-| 📜 **Certification** | Professional English Communication & Workplace Skills | Infosys Springboard |
-
-</div>
 
 ---
 
 ### 🪪 Badges
 
 <p align="center">
-<img src="https://img.shields.io/badge/LeetCode-500%2B%20Solved-orange?style=for-the-badge&logo=leetcode&logoColor=white">
 <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Systems-blueviolet?style=for-the-badge&logo=java&logoColor=white">
 <img src="https://img.shields.io/badge/OS%20Dev-Eran%20OS-00eaff?style=for-the-badge&logo=gnubash&logoColor=white">
 <img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge">
