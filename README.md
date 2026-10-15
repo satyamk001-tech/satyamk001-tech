@@ -67,12 +67,25 @@
 </p>
 
 <p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=satyamk001-tech&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=satyamk001-tech&theme=tokyonight" />
+</p>
+
+<p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satyamk001-tech&theme=tokyonight" width="90%"/>
 </p>
 
 ---
 
-## 🔥 Contribution Streak & 🐍 Activity
+## 🔥 Contribution Streak & Graph Representation
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyamk001-tech&theme=tokyo-night&area=true&hide_border=true" alt="Activity Graph"/>
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/00eaff/satyamk001-tech" alt="Satyam's Contribution Graph" width="95%"/>
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamk001-tech&theme=tokyonight&hide_border=true"/>
