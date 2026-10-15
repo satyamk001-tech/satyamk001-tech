@@ -69,19 +69,7 @@
 
 ---
 
-## 🔥 Contribution Streak & Graph Representation
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=satyamk001-tech&theme=tokyo-night&area=true&hide_border=true" alt="Activity Graph"/>
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/00eaff/satyamk001-tech" alt="Satyam's Contribution Graph" width="95%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=satyamk001-tech&theme=tokyonight&hide_border=true"/>
-</p>
+## 🐍 Contribution Graph
 
 <p align="center">
 <picture>
