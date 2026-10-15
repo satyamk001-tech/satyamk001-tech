@@ -4,11 +4,11 @@
 <table style="border-collapse: collapse;">
 <tr>
 <!-- Avatar Column Full Height -->
-<td align="center" valign="middle" style="padding: 30px;">
-  <img src="https://avatars.githubusercontent.com/satyamk001-tech" 
-       alt="Profile Avatar"
+<td align="center" valign="middle" style="padding: 25px;">
+  <img src="https://raw.githubusercontent.com/satyamk001-tech/satyamk001-tech/main/assets/profile-avatar.png" 
+       alt="Satyam Kumar"
        width="230"
-       style="border-radius: 50%; border: 4px solid #00eaff; object-fit: cover; box-shadow: 0 0 18px #00eaff;"/>
+       style="border-radius: 50%; object-fit: cover; box-shadow: 0 0 20px #00eaff;"/>
 </td>
 <!-- Title Section -->
 <td align="center" valign="middle" style="padding: 30px;">
