@@ -21,6 +21,7 @@
 - 🧠 **Strong Computer Science Foundations**: Data Structures & Algorithms, Operating Systems, DBMS, Computer Networks & Architecture  
 - 🖥️ **Operating System Architect**: Currently building **Eran OS** (Custom x86 OS with bootloader, kernel, memory management & offline AI engine)  
 - 💬 **Distributed Systems**: Built **Samvaad** (Real-time distributed WhatsApp-like chat with Kafka, Redis, WebSocket & Docker)  
+- ⚡ **Data Platform Engineering**: Built **DataFlow** (Real-time distributed analytics platform with Java Ingestion, Spark ETL, Snowflake DWH, dbt, pgvector RAG, and secure Text-to-SQL)  
 - 🛰️ Exploring Cloud-Native architectures, Docker containerization, CI/CD pipelines, and observability  
 - 🤝 Open to SDE Internships, collaboration, and high-impact software engineering projects  
 
@@ -37,21 +38,20 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/x86%20Assembly%20(NASM)-000000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CircleCI-343434?style=for-the-badge&logo=circleci&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white"/>
 </p>
 
 ---
 
 ## 📈 Performance Dashboard
+
+<p align="center">
+  <img src="assets/activity-overview.svg" alt="Satyam Kumar Activity Overview" width="95%" />
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=satyamk001-tech&theme=tokyonight" />
@@ -89,6 +89,7 @@
 
 | Project | Description | Tech Stack | Links |
 |:---|:---|:---|:---|
+| ⚡ **DataFlow** | Enterprise-grade real-time distributed data pipeline & analytics platform with MinIO S3 lake, Spark batch/streaming, Snowflake DWH, dbt star schema, pgvector RAG, and secure Text-to-SQL | Java 21, Spring Boot, Apache Spark, Kafka, Snowflake, dbt, React | 🔗 [GitHub](https://github.com/satyamk001-tech/realtime-data-pipeline) • 🟢 `Active` |
 | 🖥️ **Eran OS** | Custom AI-powered operating system built from scratch with a custom bootloader, kernel, memory management, process scheduling, and an integrated offline AI engine | C, x86 Assembly (NASM), Java, QEMU | 🔗 [GitHub](https://github.com/satyamk001-tech/Eran-OS) • 🚀 `Ongoing` |
 | 💬 **Samvaad** | WhatsApp-like distributed real-time messaging application with WebSocket chat, Spring Security JWT authentication, Kafka asynchronous event streaming, and Redis presence caching | Java, Spring Boot, Kafka, Redis, PostgreSQL, Docker | 🔗 [GitHub](https://github.com/satyamk001-tech/Samvaad) |
 | 💰 **PennyLog** | Full-stack personal finance and expense tracking management application to monitor cash flow, budgeting, and spending analytics | Java, Spring Boot, SQL, REST APIs | 🔗 [GitHub](https://github.com/satyamk001-tech/pennylog) |
