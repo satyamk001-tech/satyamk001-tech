@@ -89,7 +89,7 @@
 
 | Project | Description | Tech Stack | Links |
 |:---|:---|:---|:---|
-| 🖥️ **Eran OS** | Custom AI-powered operating system built from scratch with a custom bootloader, kernel, memory management, process scheduling, and an integrated offline AI engine | C, x86 Assembly (NASM), Java, QEMU | 🔗 [GitHub](https://github.com/satyamk001-tech) • ⚙️ `Ongoing` |
+| 🖥️ **Eran OS** | Custom AI-powered operating system built from scratch with a custom bootloader, kernel, memory management, process scheduling, and an integrated offline AI engine | C, x86 Assembly (NASM), Java, QEMU | 🔗 [GitHub](https://github.com/satyamk001-tech/Eran-OS) • 🚀 `Ongoing` |
 | 💬 **Samvaad** | WhatsApp-like distributed real-time messaging application with WebSocket chat, Spring Security JWT authentication, Kafka asynchronous event streaming, and Redis presence caching | Java, Spring Boot, Kafka, Redis, PostgreSQL, Docker | 🔗 [GitHub](https://github.com/satyamk001-tech/Samvaad) |
 | 💰 **PennyLog** | Full-stack personal finance and expense tracking management application to monitor cash flow, budgeting, and spending analytics | Java, Spring Boot, SQL, REST APIs | 🔗 [GitHub](https://github.com/satyamk001-tech/pennylog) |
 | 🚗 **Parking Finder** | Interactive web application to locate and reserve available parking spots using geospatial mapping and real-time availability updates | Python, Flask, Leaflet, OpenStreetMap | 🔗 [GitHub](https://github.com/satyamk001-tech/parking-finder) |
