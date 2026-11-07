@@ -1,47 +1,138 @@
-# Satyam Kumar
+<!-- Full Header Layout with Cyberpunk Background -->
+<div align="center" style="background: linear-gradient(135deg, #3a0ca3, #000000, #4361ee); padding: 40px; border-radius: 12px; box-shadow: 0 0 25px #4cc9f0;">
 
-**Backend & Systems Software Engineer**  
-Focused on high-concurrency Java backend systems, distributed messaging, and bare-metal x86 operating system development.
+<h1 align="center" style="color: #ffffff;">
+  Hey there! I'm <span style="color:#00eaff;">Satyam Kumar</span> 👋
+</h1>
 
-[LinkedIn](https://www.linkedin.com/in/satyam-kumar/) • [Email](mailto:krsatyam1002@gmail.com) • [GitHub](https://github.com/satyamk001-tech)
-
----
-
-### Core Engineering Focus
-
-- **Backend & Distributed Systems**: Java 21 (LTS), Spring Boot 3.4, PostgreSQL, Apache Kafka, Redis, Distributed Caching, Event-Driven Architecture.
-- **Systems & OS Development**: C (Freestanding / C99), x86 Assembly (NASM), Protected Mode, Two-Level Paging, Interrupt Descriptor Tables (IDT), Preemptive Scheduling, VFS.
-- **Infrastructure & Reliability**: Docker, Testcontainers, GitHub Actions CI/CD, Prometheus, Grafana, Linux Systems Programming.
-
----
-
-### Featured Projects
-
-#### 1. [DataFlow — Real-Time Event Ingestion & Analytics Pipeline](https://github.com/satyamk001-tech/realtime-data-pipeline)
-*High-throughput event streaming and distributed batch processing engine built with Java 21, Apache Kafka, Apache Spark, and Spring Boot.*
-- Ingests and validates multi-source event streams with SHA-256 cryptographic checksums and schema integrity verification.
-- Implements distributed deduplication and automated data quality quarantine rules using Apache Spark.
-- Features an AST-validated analytical query engine using JSqlParser to enforce read-only execution constraints.
-- Backed by integration tests via Testcontainers and an automated CI pipeline.
-
-#### 2. [ERAN OS — 32-bit x86 Protected Mode Kernel](https://github.com/satyamk001-tech/Eran-OS)
-*Independent x86 operating system kernel built from scratch in freestanding C and NASM assembly.*
-- Two-stage bootloader transitioning CPU from 16-bit Real Mode to 32-bit Protected Mode with A20 gate activation.
-- Memory management subsystem featuring a bitmap physical frame allocator (PMM), kernel heap, and two-level paging (VMM).
-- Preemptive round-robin process scheduler utilizing PIT timer interrupts and Task State Segment (TSS) stack switching.
-- Custom Virtual Filesystem (VFS) with ATA PIO hard disk controller support and an interactive system shell.
-
-#### 3. [Samvaad — Distributed Real-Time Communication Platform](https://github.com/satyamk001-tech/Samvaad)
-*High-concurrency messaging and WebRTC signaling platform built on Spring Boot, PostgreSQL, Redis, and Apache Kafka.*
-- WebSocket STOMP messaging with Redis Pub/Sub presence tracking and active session heartbeat management.
-- Reliable event streaming utilizing the Transactional Outbox pattern to guarantee at-least-once delivery.
-- Peer-to-peer WebRTC voice/video signaling with ICE/STUN/TURN NAT traversal.
-- Stateless authentication with JWT, refresh token rotation, and rate-limited endpoints.
+<p align="center" style="color:#e2e2e2;">
+  <b>Turning complex problems into scalable systems & resilient code</b> ⚡  
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=900&color=00E7F7&center=true&vCenter=true&width=520&lines=Backend+Developer+%26+Systems+Coder+%F0%9F%92%BB;Java+%26+Spring+Boot+Engineer+%F0%9F%9A%80;Systems+Programming+%26+OS+Dev+%E2%9A%A1;Building+Eran+OS+From+Scratch+%F0%9F%9B%A0%EF%B8%8F;Distributed+Systems+%26+DevOps+%F0%9F%A7%A0" alt="Typing Animation"/>
+</p>
+</div>
 
 ---
 
-### Computer Science Foundations
+## 🌟 About Me
 
-- **Data Structures & Algorithms**: Algorithmic problem solving in Java / C++ (Arrays, Trees, Graphs, Dynamic Programming).
-- **Systems & Networking**: TCP/IP stack mechanics, POSIX concurrency, memory layout, virtual memory, cache coherence.
-- **Database Engineering**: ACID isolation levels, indexing strategies (B-Tree, Hash, HNSW), connection pooling, query execution plans.
+- 🎓 **Computer Science Undergraduate** at Chandigarh College of Engineering, Jhanjeri (2024 – 2028)  
+- ⚙️ **Backend & Systems Developer** focused on high-performance Java microservices, low-level OS, and distributed systems  
+- 🧠 **Strong Computer Science Foundations**: Data Structures & Algorithms, Operating Systems, DBMS, Computer Networks & Architecture  
+- 🖥️ **Operating System Architect**: Currently building **Eran OS** (Custom x86 OS with bootloader, kernel, memory management & offline AI engine)  
+- 💬 **Distributed Systems**: Built **Samvaad** (Real-time distributed WhatsApp-like chat with Kafka, Redis, WebSocket & Docker)  
+- ⚡ **Data Platform Engineering**: Built **DataFlow** (Real-time distributed analytics platform with Java Ingestion, Spark ETL, Snowflake DWH, dbt, pgvector RAG, and secure Text-to-SQL)  
+- 🛰️ Exploring Cloud-Native architectures, Docker containerization, CI/CD pipelines, and observability  
+- 🤝 Open to SDE Internships, collaboration, and high-impact software engineering projects  
+
+> *"Building resilient systems from the bare metal up to the cloud."* ✨
+
+---
+
+## 🛠 Tech Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,ts,spring,postgres,redis,kafka,rabbitmq,docker,git,github,jenkins,grafana,maven,gradle&perline=8&theme=dark"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20AI-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</p>
+
+---
+
+## 📈 Performance Dashboard
+
+<p align="center">
+  <img src="assets/activity-overview.svg" alt="Satyam Kumar Activity Overview" width="95%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=satyamk001-tech&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=satyamk001-tech&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=satyamk001-tech&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=satyamk001-tech&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=satyamk001-tech&theme=tokyonight" width="90%"/>
+</p>
+
+---
+
+## 🐍 Contribution Graph
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/satyamk001-tech/satyamk001-tech/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/satyamk001-tech/satyamk001-tech/output/github-snake.svg">
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/satyamk001-tech/satyamk001-tech/output/github-snake.svg">
+</picture>
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+> Highlights of my most impactful engineering work
+
+<div align="center">
+
+| Project | Description | Tech Stack | Links |
+|:---|:---|:---|:---|
+| ⚡ **DataFlow** | Enterprise-grade real-time distributed data pipeline & analytics platform with MinIO S3 lake, Spark batch/streaming, Snowflake DWH, dbt star schema, pgvector RAG, and secure Text-to-SQL | Java 21, Spring Boot, Apache Spark, Kafka, Snowflake, dbt, React | 🔗 [GitHub](https://github.com/satyamk001-tech/realtime-data-pipeline) • 🟢 `Active` |
+| 🖥️ **Eran OS** | Custom AI-powered operating system built from scratch with a custom bootloader, kernel, memory management, process scheduling, and an integrated offline AI engine | C, x86 Assembly (NASM), Java, QEMU | 🔗 [GitHub](https://github.com/satyamk001-tech/Eran-OS) • 🚀 `Ongoing` |
+| 💬 **Samvaad** | WhatsApp-like distributed real-time messaging application with WebSocket chat, Spring Security JWT authentication, Kafka asynchronous event streaming, and Redis presence caching | Java, Spring Boot, Kafka, Redis, PostgreSQL, Docker | 🔗 [GitHub](https://github.com/satyamk001-tech/Samvaad) |
+| 💰 **PennyLog** | Full-stack personal finance and expense tracking management application to monitor cash flow, budgeting, and spending analytics | Java, Spring Boot, SQL, REST APIs | 🔗 [GitHub](https://github.com/satyamk001-tech/pennylog) |
+| 🚗 **Parking Finder** | Interactive web application to locate and reserve available parking spots using geospatial mapping and real-time availability updates | Python, Flask, Leaflet, OpenStreetMap | 🔗 [GitHub](https://github.com/satyamk001-tech/parking-finder) |
+
+</div>
+
+---
+
+## 🎯 Current Goals
+
+✔ Complete memory paging, hardware interrupt handlers & Virtual File System (VFS) in Eran OS  
+✔ Design high-throughput microservices using Apache Kafka & Redis clusters  
+✔ Deepen knowledge in Computer Architecture, Systems Programming, and Kernel Engineering  
+✔ Expand expertise in Cloud-Native architectures, container orchestration, and CI/CD  
+✔ Build production-grade distributed backend systems for enterprise scalability  
+
+---
+
+### 🪪 Badges
+
+<p align="center">
+<img src="https://img.shields.io/badge/Focus-Backend%20%26%20Systems-blueviolet?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/OS%20Dev-Eran%20OS-00eaff?style=for-the-badge&logo=gnubash&logoColor=white">
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-success?style=for-the-badge">
+</p>
+
+---
+
+## 🌐 Let’s Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/satyam-kumar/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="50" alt="LinkedIn"/></a>
+  <a href="mailto:krsatyam1002@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="50" alt="Email"/></a>
+  <a href="https://github.com/satyamk001-tech"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="50" alt="GitHub"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&reversal=true&section=footer"/>
+</p>
+
+<p align="center">  
+⚡ If you like my work, consider ⭐ starring some repos! ⚡  
+</p>
